@@ -30,7 +30,7 @@ We will be using various data analytics tools and techniques to analyze and mode
 
 A Jupyter Notebook containing the EDA and predictive analysis code summarizing the project findings, insights, and recommendations as a HTML Document. 
 
-To view the html document click [here](Spotify/YT.html).
+To view the html document click [here](Spotify:YT.html).
 
 
 
