@@ -1,8 +1,8 @@
 # EDA and Predictive Analysis 
-# Project on Spotify & YouTube Dataset
+## Project on Spotify & YouTube Dataset
 
 <p align="center">
-  <img src="graphics.png">
+  <img src="graphic.png">
 </p>
 
 This data analytics project aims to explore and examine a dataset fetched from Kaggle. The dataset includes a variety of information about user interaction with music tracks, including information such as the artist, track, duration, danceability, energy, tempo, loudness and stream count.
