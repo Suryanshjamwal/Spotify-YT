@@ -1,5 +1,4 @@
-# EDA and Predictive Analysis 
-## Project on Spotify & YouTube Dataset
+# EDA and Predictive Analysis - Project on Spotify & YouTube Dataset
 
 <p align="center">
   <img src="graphic.png">
