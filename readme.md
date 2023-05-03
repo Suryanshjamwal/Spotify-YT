@@ -21,7 +21,7 @@ We will be using various data analytics tools and techniques to analyze and mode
 * Python3
 * Jupyter Notebook
 * Pandas, NumPy & PySpark for data manipulation and cleaning
-* Matplotlib and Seaborn for data visualization
+* Matplotlib, plotly and Seaborn for data visualization
 * Scikit-learn library for predictive modeling
 * Regression analysis and machine learning algorithms such as linear regression and random forest.
 
